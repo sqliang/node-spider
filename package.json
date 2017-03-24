@@ -1,0 +1,19 @@
+{
+  "name": "node-spider",
+  "version": "1.0.0",
+  "description": "a spider test by node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index",
+    "start": "node server.js"
+  },
+  "author": "sqliang",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "superagent": "^3.5.1",
+    "utility": "^1.11.0"
+  }
+}
